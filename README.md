@@ -1,6 +1,6 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=F77765&width=435&lines=Hi%2C+I'm+Anik+%E2%9C%85;A+passionate+Blockchain+Developer.;Works+on+backend+and+DevOps.;A+dedicated+Data+Analyst.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=F77765&width=435&lines=Hi%2C+I'm+Anik+%E2%9C%85;A+passionate+Blockchain+Developer.;Works+on+Backend+and+DevOps.;A+dedicated+Data+Analyst.)](https://git.io/typing-svg)
 
 ###
 
